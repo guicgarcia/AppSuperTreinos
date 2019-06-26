@@ -1,5 +1,4 @@
 # AppSuperTreinos
-<h1>App Super Treinos </h1>
 O trabalho será um aplicativo para controle de exercícios de academia.
 <br>
 O app terá 3 tabelas: <b>users, exercises e series.</b> Um usuário poderá cadastrar muitos exercícios e cada um terá informações sobre sua série, para que ele possa consultar durante sua prática esportiva.
