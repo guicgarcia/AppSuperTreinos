@@ -1,9 +1,9 @@
 # AppSuperTreinos
 O trabalho será um aplicativo para controle de exercícios de academia.
 <br>
-O app terá 3 tabelas: <b>users, exercises e series.</b> Um usuário poderá cadastrar muitos exercícios e cada um terá informações sobre sua série, para que ele possa consultar durante sua prática esportiva.
+O app terá 3 tabelas: <b>users, exercises e series.</b> Um usuário poderá cadastrar muitos exercícios e cada um terá informações sobre suas séries, para que ele possa consultar durante sua prática esportiva.
 <br>
-O usuário precisará cadastrar uma conta e realizar o login para ter acesso ao aplicativo. Ele será redirecionado para uma tela com uma lista dos seus exercícios físicos. Nessa tela terá um botão para realizar o cadastro de novos exercícios. Para cada exercício cadastrado, será necessário o cadastro da sua série.
+O usuário precisará cadastrar uma conta e realizar o login para ter acesso ao aplicativo. Ele será redirecionado para uma tela com uma lista dos seus exercícios físicos. Nessa tela terá um botão para realizar o cadastro de novos exercícios. Para cada exercício cadastrado, será necessário o cadastro das suas séries. As séries poderão ser visualizadas ao clicar sobre a imagem do exercício.
 
 ![diagrama android](https://user-images.githubusercontent.com/29738868/58960157-efc6fa00-877c-11e9-8f23-edbe0263d5e4.png)
 
