@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Super Treinos</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Nome</string>
+    <string name="description">Email</string>
+    <string name="share_message">Compartilhado com Sucesso!</string>
+
+</resources>
